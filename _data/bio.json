@@ -1,57 +1,62 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Bedir Yılmaz",
+    "label": "PhD Candite",
+    "picture": "https://bediryilmaz.github.io/images/bedir.png",
+    "email": "mail@bediryilmaz.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://bediryilmaz.github.io",
+    "summary": "PhD Candidate on the field of Crowd Counting at National University of Malaysia. I expect to graduate in Autumn, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "43650",
+      "city": "Bangi",
+      "countryCode": "Malaysia",
+      "region": "Selangor"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "BedirYilmaz",
+        "url": "https://github.com/BedirYilmaz"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "bediry",
+        "url": "https://www.linkedin.com/in/bediry/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Bedir_Yilmaz_",
+        "url": "http://twitter.com/Bedir_Yilmaz_"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Bedir_Yilmaz_",
+        "url": "https://www.instagram.com/Bedir_Yilmaz_/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Crowd Counting",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Crowd",
+        "Crowd Density Estimation"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Vision",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -61,33 +66,55 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
+        "Pytorch",
+        "Numpy",
         "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C#",
+        "Matlab",
+        "C++"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Anaconda",
+        "Airflow",
+        "VSCode"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Istanbul Commerce University, İstanbul, Turkey",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "3.14",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Yildiz Technical University, İstanbul, Turkey",
+      "area": "Computer Science",
+      "studyType": "M. Sc.",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "National University of Malaysia, Bangi, Selangor, Malaysia",
+      "area": "Computer Science",
+      "studyType": "Ph. D.",
+      "startDate": "2017",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
