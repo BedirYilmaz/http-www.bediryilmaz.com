@@ -15,7 +15,7 @@ labels:
 summary: We have proposed a novel loss function to enhance network training for a better estimation of crowd density, taking the effects of perspective distortion into account.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/VAL.png">
+<img class="ui medium right floated rounded image" src="../images/VAL-network.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
