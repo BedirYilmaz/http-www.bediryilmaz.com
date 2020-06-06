@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/PAL.jpg
+title: Perspective Aware Loss Function for Crowd Density Estimation
+permalink: projects/PAL
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-06-30
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Crowd Counting
+  - Crowd Density Estimation
+  - PyTorch
+  - Convolutional Neural Networks
+summary: We have developed a novel loss function that enhances network training by penalizing dense crowd underestimations. Findings published in MVA 2019, Oral presentation.
 ---
 
 <div class="ui small rounded images">

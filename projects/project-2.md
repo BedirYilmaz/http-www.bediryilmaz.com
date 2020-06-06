@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/VAL.png
+title: Vanishing Aware Loss Function for Crowd Density Estimation
+permalink: projects/VAL
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Crowd Density Estimation
+  - Deep Learning
+  - Perspective Distiortion
+  - Appearance Scale Variation
+  - Texture Recognition
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
