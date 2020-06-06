@@ -12,7 +12,7 @@ labels:
   - Perspective Distiortion
   - Appearance Scale Variation
   - Texture Recognition
-summary: A novel loss function to enhance network training for a better estimation of crowd density taking the effects of perspective distortion into account.
+summary: We have proposed a novel loss function to enhance network training for a better estimation of crowd density, taking the effects of perspective distortion into account.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/VAL.jpg">

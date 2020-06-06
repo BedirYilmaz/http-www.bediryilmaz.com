@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PAL.jpg
+image: images/PAL_Analysis.png
 title: Perspective Aware Loss Function for Crowd Density Estimation
 permalink: projects/PAL
 # All dates must be YYYY-MM-DD format!
