@@ -15,7 +15,6 @@ summary: We have developed a novel loss function that enhances network training 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/PAL-Analysis.png">
   <img class="ui image" src="../images/PAL-Formulas.png">
   <img class="ui image" src="../images/PAL-Formulas2.png">
 </div>
