@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/myvis.png
 title: MyVis Driveway Entrance Vehicle Counting System
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - Java
   - Object Tracking
   - Object Classification
-summary: My team receieved the best paper award.
+summary: And object tracking and classification based vehicle entrance counting system written in Java OpenCV. Our app takes video as input and generates vehicle statistics as output. We have received the best paper award.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
@@ -57,7 +57,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
  from here. There is a door going south from here.
 </pre>
 
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
